@@ -21,7 +21,7 @@ Tiles are displayed in a 2D array format and indexed starting from 0 for the row
 The letter a's index is 11.
 When prompted to "Guess: ", input "11".
 
-Guess two locations. If there's a match, the lower case letters will convert to upper case letters to keep track of the matches. If there is no match, tiles will "turn around" to their astrick format.
+Guess two locations. If there's a match, the lower case letters will convert to upper case letters to keep track of the matches. If there is no match, tiles will "turn around" to their asterick format.
 
 # Levels
 There are 3 levels available for the player: 1, 2, 3. <br />
