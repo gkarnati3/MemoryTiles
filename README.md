@@ -1,5 +1,5 @@
 # Memory Tiles
-Console-based and unix-compatible Memory Tile interactive card game. 
+Console-based and unix-compatible interactive card game focusing on your memorization skills.
 
 # How to play
 Clone the repo <br />
