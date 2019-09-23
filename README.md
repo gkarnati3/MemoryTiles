@@ -1,2 +1,3 @@
 # MemoryTiles
-Memory Tile Game in Console
+Console-based and unix-compatible Memory Tile interactive card game. 
+
