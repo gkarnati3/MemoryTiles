@@ -2,9 +2,9 @@
 Console-based and unix-compatible Memory Tile interactive card game. 
 
 # How to play
-Clone the repo
-Navigate to folder
-Run python3 memory.py
+Clone the repo <br />
+Navigate to folder <br />
+Run python3 memory.py <br />
 Play!!
 
 # Goal
